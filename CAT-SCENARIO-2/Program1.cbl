@@ -69,7 +69,7 @@
 009100                                                                  00910026
 009200         MOVE "JOHN" TO NAME(1).                                  00920026
 009300         MOVE "TOM" TO NAME(2).                                   00930026
-009400         MOVE  "34"  TO AGE(1).                                   00940026
+009400         MOVE  "35"  TO AGE(1).                                   00940026
 009500         MOVE  "24"  TO AGE(2).                                   00950026
                MOVE "DILIP" TO NAME(3).                                 
                MOVE "DEEPA" TO NAME(4).                                 00930026
